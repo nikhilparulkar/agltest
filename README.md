@@ -22,7 +22,7 @@ This respository has 2 applications, as detailed below:
 
     1.3) A unit test project is also included. It is developed in NUnit and Uses Mocking Framework MoQ to mock certain services for Unit testing puprposes.
  
-2) A Front Application developed in Angular 1.4.: It Invoke the API endpoint and presets the Output. At present Fronend app is configured to use Debug URL of RestFul Web Service.
+2) A Front Application developed in Angular 1.4.: It Invoke the API endpoint and displays the Output. At present, Fronend app is configured to use Debug URL of RestFul Web Service.
 
 
 Installation :
@@ -36,7 +36,7 @@ How To Run :
       Open the WebApI project .sln using MS Studion 2017 onwards and run the project in debug mode.
       
           
-      Run the TestAGLEnergy.html in chrome or any browser.At present Frontend app is configured to use Debug URL of RestFul Web Service.
+      Run the TestAGLEnergy.html in chrome or any browser.At present, Frontend app is configured to use Debug URL of RestFul Web Service.
 
       
 How to Run Unit Test:
