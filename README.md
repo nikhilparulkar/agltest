@@ -3,6 +3,7 @@ This Repository is for solution of a Coding Challenge.
 This respository has 2 applications, as detailed below:
 
 1) Web Backend Application (RestFul API Endpoints):
+
      1.1 )Developed in .Net Core 2.2 WebAPI. It follows S.O.L.I.D design principle with Abstraction for Services which can be injected at the start of project, Loosely Coupled Code , Modular Design and Global Exception handling.
 
      1.2) Application exposes one RESP API Endpoint : 
