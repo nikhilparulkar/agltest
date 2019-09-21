@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/AGLEnergyWebApi.js"></script>
+</head>
+<body ng-app="myApp">
+    <div ng-controller="myTestWebApi">
+		Pets with male Owner
+		<ul ng-repeat="item in result.petsWithMaleOwner | orderBy">
+		  <li>{{item}} </li>
+		</ul>
+		Pets with Female Owner
+		<ul ng-repeat="item in result.petsWithfemalesOwner | orderBy">
+		  <li>{{item}} </li>
+		</ul>
+  
+    </div>
+</body>
+</html>
