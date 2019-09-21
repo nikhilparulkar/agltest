@@ -22,7 +22,7 @@ This respository has 2 applications, as detailed below:
 
     1.3) A unit test project is also included. It is developed in NUnit and Uses Mocking Framework MoQ to mock certain services for Unit testing puprposes.
  
-2) A Front Applocation developed in Angular 1.4.: It Invoke the API endpoint and presets the Output. At present Fronend app is configured to use Debug URL of RestFul Web Service.
+2) A Front Application developed in Angular 1.4.: It Invoke the API endpoint and presets the Output. At present Fronend app is configured to use Debug URL of RestFul Web Service.
 
 
 Installation :
